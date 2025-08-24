@@ -1,0 +1,6 @@
+st.download_button(
+"Download weekly dataset (CSV)",
+data=weekly.to_csv(index=False),
+file_name="weekly_trends.csv",
+mime="text/csv"
+)

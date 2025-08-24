@@ -1,0 +1,11 @@
+product,date,sales,views,price,category
+Shoes,2025-07-01,10,120,49.99,Footwear
+Shoes,2025-07-03,15,150,49.99,Footwear
+Shoes,2025-07-10,40,600,49.99,Footwear
+Shoes,2025-07-17,45,700,49.99,Footwear
+Hat,2025-07-01,5,50,19.99,Accessories
+Hat,2025-07-08,6,55,19.99,Accessories
+Hat,2025-07-15,20,200,19.99,Accessories
+Bag,2025-07-02,8,100,39.99,Bags
+Bag,2025-07-09,9,110,39.99,Bags
+Bag,2025-07-16,12,140,39.99,Bags

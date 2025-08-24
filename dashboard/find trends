@@ -1,0 +1,6 @@
+top_up, top_down = find_trending(weekly)
+st.subheader("Top Rising Products (latest week)")
+st.dataframe(top_up[["product","week","sales","views","view_to_purchase","trend_score"]], use_container_width=True)
+
+st.subheader("Top Falling Products (latest week)")
+st.dataframe(top_down[["product","week","sales","views","view_to_purchase","trend_score"]], use_container_width=True)

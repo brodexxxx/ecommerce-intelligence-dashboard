@@ -1,0 +1,6 @@
+st.subheader("Chart a product")
+products = sorted(weekly["product"].unique().tolist())
+pick = st.selectbox("Pick a product", options=products)
+sub = weekly[weekly["product"] == pick].sort_values("week")
+fig = px.line(sub, x="week", y="sales", markers=True, title=f"{pick} — Weekly Sales")
+st.plotly_chart(fig, use_container_width=True)

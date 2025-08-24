@@ -1,0 +1,96 @@
+product,date,sales,views,price,category
+iPhone 15 Pro,2025-01-01,45,1200,999.99,Electronics
+iPhone 15 Pro,2025-01-08,52,1350,999.99,Electronics
+iPhone 15 Pro,2025-01-15,68,1800,999.99,Electronics
+iPhone 15 Pro,2025-01-22,75,2100,999.99,Electronics
+iPhone 15 Pro,2025-01-29,82,2300,999.99,Electronics
+Samsung Galaxy S24,2025-01-01,38,950,899.99,Electronics
+Samsung Galaxy S24,2025-01-08,42,1100,899.99,Electronics
+Samsung Galaxy S24,2025-01-15,55,1400,899.99,Electronics
+Samsung Galaxy S24,2025-01-22,48,1250,899.99,Electronics
+Samsung Galaxy S24,2025-01-29,60,1600,899.99,Electronics
+MacBook Pro 16",2025-01-01,12,300,2499.99,Electronics
+MacBook Pro 16",2025-01-08,15,350,2499.99,Electronics
+MacBook Pro 16",2025-01-15,18,420,2499.99,Electronics
+MacBook Pro 16",2025-01-22,20,480,2499.99,Electronics
+MacBook Pro 16",2025-01-29,22,520,2499.99,Electronics
+Nike Air Max,2025-01-01,25,400,129.99,Footwear
+Nike Air Max,2025-01-08,30,450,129.99,Footwear
+Nike Air Max,2025-01-15,35,500,129.99,Footwear
+Nike Air Max,2025-01-22,28,420,129.99,Footwear
+Nike Air Max,2025-01-29,32,480,129.99,Footwear
+Adidas Ultraboost,2025-01-01,20,350,149.99,Footwear
+Adidas Ultraboost,2025-01-08,25,400,149.99,Footwear
+Adidas Ultraboost,2025-01-15,30,450,149.99,Footwear
+Adidas Ultraboost,2025-01-22,22,380,149.99,Footwear
+Adidas Ultraboost,2025-01-29,28,420,149.99,Footwear
+Levi's 501 Jeans,2025-01-01,40,600,79.99,Clothing
+Levi's 501 Jeans,2025-01-08,45,650,79.99,Clothing
+Levi's 501 Jeans,2025-01-15,50,700,79.99,Clothing
+Levi's 501 Jeans,2025-01-22,42,620,79.99,Clothing
+Levi's 501 Jeans,2025-01-29,48,680,79.99,Clothing
+Zara T-Shirt,2025-01-01,60,800,29.99,Clothing
+Zara T-Shirt,2025-01-08,65,850,29.99,Clothing
+Zara T-Shirt,2025-01-15,70,900,29.99,Clothing
+Zara T-Shirt,2025-01-22,55,750,29.99,Clothing
+Zara T-Shirt,2025-01-29,62,820,29.99,Clothing
+Gucci Handbag,2025-01-01,8,120,1200.00,Bags
+Gucci Handbag,2025-01-08,10,150,1200.00,Bags
+Gucci Handbag,2025-01-15,12,180,1200.00,Bags
+Gucci Handbag,2025-01-22,9,140,1200.00,Bags
+Gucci Handbag,2025-01-29,11,160,1200.00,Bags
+Louis Vuitton Wallet,2025-01-01,15,200,450.00,Bags
+Louis Vuitton Wallet,2025-01-08,18,230,450.00,Bags
+Louis Vuitton Wallet,2025-01-15,20,250,450.00,Bags
+Louis Vuitton Wallet,2025-01-22,16,210,450.00,Bags
+Louis Vuitton Wallet,2025-01-29,19,240,450.00,Bags
+Dyson Vacuum,2025-01-01,18,250,399.99,Home
+Dyson Vacuum,2025-01-08,20,280,399.99,Home
+Dyson Vacuum,2025-01-15,22,300,399.99,Home
+Dyson Vacuum,2025-01-22,19,270,399.99,Home
+Dyson Vacuum,2025-01-29,21,290,399.99,Home
+Nespresso Machine,2025-01-01,25,350,199.99,Home
+Nespresso Machine,2025-01-08,28,380,199.99,Home
+Nespresso Machine,2025-01-15,30,400,199.99,Home
+Nespresso Machine,2025-01-22,26,360,199.99,Home
+Nespresso Machine,2025-01-29,29,390,199.99,Home
+Sony Headphones,2025-01-01,35,500,299.99,Electronics
+Sony Headphones,2025-01-08,40,550,299.99,Electronics
+Sony Headphones,2025-01-15,45,600,299.99,Electronics
+Sony Headphones,2025-01-22,38,520,299.99,Electronics
+Sony Headphones,2025-01-29,42,580,299.99,Electronics
+Apple Watch,2025-01-01,30,400,399.99,Electronics
+Apple Watch,2025-01-08,35,450,399.99,Electronics
+Apple Watch,2025-01-15,40,500,399.99,Electronics
+Apple Watch,2025-01-22,32,420,399.99,Electronics
+Apple Watch,2025-01-29,38,480,399.99,Electronics
+PlayStation 5,2025-01-01,22,300,499.99,Electronics
+PlayStation 5,2025-01-08,25,350,499.99,Electronics
+PlayStation 5,2025-01-15,28,400,499.99,Electronics
+PlayStation 5,2025-01-22,20,320,499.99,Electronics
+PlayStation 5,2025-01-29,26,380,499.99,Electronics
+Xbox Series X,2025-01-01,18,250,499.99,Electronics
+Xbox Series X,2025-01-08,20,280,499.99,Electronics
+Xbox Series X,2025-01-15,22,300,499.99,Electronics
+Xbox Series X,2025-01-22,16,260,499.99,Electronics
+Xbox Series X,2025-01-29,19,290,499.99,Electronics
+Rolex Submariner,2025-01-01,3,50,8500.00,Luxury
+Rolex Submariner,2025-01-08,4,60,8500.00,Luxury
+Rolex Submariner,2025-01-15,5,70,8500.00,Luxury
+Rolex Submariner,2025-01-22,3,55,8500.00,Luxury
+Rolex Submariner,2025-01-29,4,65,8500.00,Luxury
+Chanel Perfume,2025-01-01,12,180,120.00,Beauty
+Chanel Perfume,2025-01-08,15,200,120.00,Beauty
+Chanel Perfume,2025-01-15,18,220,120.00,Beauty
+Chanel Perfume,2025-01-22,14,190,120.00,Beauty
+Chanel Perfume,2025-01-29,16,210,120.00,Beauty
+L'Oreal Shampoo,2025-01-01,80,1000,8.99,Beauty
+L'Oreal Shampoo,2025-01-08,85,1050,8.99,Beauty
+L'Oreal Shampoo,2025-01-15,90,1100,8.99,Beauty
+L'Oreal Shampoo,2025-01-22,75,950,8.99,Beauty
+L'Oreal Shampoo,2025-01-29,82,1020,8.99,Beauty
+KitchenAid Mixer,2025-01-01,15,200,299.99,Home
+KitchenAid Mixer,2025-01-08,18,230,299.99,Home
+KitchenAid Mixer,2025-01-15,20,250,299.99,Home
+KitchenAid Mixer,2025-01-22,16,210,299.99,Home
+KitchenAid Mixer,2025-01-29,19,240,299.99,Home

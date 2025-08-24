@@ -1,0 +1,3 @@
+weekly = compute_weekly(df)
+st.subheader("Weekly rollup")
+st.dataframe(weekly.head(30), use_container_width=True)
